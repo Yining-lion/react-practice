@@ -1,5 +1,5 @@
-import LoginForm from "./components/LoginForm";
-import RegisterForm from "./components/RegisterForm";
+import LoginForm from "./login/components/LoginForm";
+import RegisterForm from "./login/components/RegisterForm";
 
 export default function LoginPage() {
   return (
